@@ -1,0 +1,245 @@
+[
+    {
+        "lng": "-70",
+        "lat": "-9",
+        "population": 732793,
+        "name": "Acre",
+        "region": "Norte",
+        "capital": "Rio Branco",
+        "initials": "AC"
+    },
+    {
+        "lng": "-36.41667",
+        "lat": "-9.58333",
+        "population": 3120922,
+        "name": "Alagoas",
+        "region": "Nordeste",
+        "capital": "Maceió",
+        "initials": "AL"
+    },
+    {
+        "lng": "-52",
+        "lat": "1",
+        "population": 668689,
+        "name": "Amapá",
+        "region": "Norte",
+        "capital": "Macapá",
+        "initials": "AP"
+    },
+    {
+        "lng": "-64.5",
+        "lat": "-3.75",
+        "population": 3480937,
+        "name": "Amazonas",
+        "region": "Norte",
+        "capital": "Manaus",
+        "initials": "AM"
+    },
+    {
+        "lng": "-42",
+        "lat": "-12",
+        "population": 14175341,
+        "name": "Bahia",
+        "region": "Nordeste",
+        "capital": "Salvador",
+        "initials": "BA"
+    },
+    {
+        "lng": "-39.5",
+        "lat": "-5",
+        "population": 8448055,
+        "name": "Ceará",
+        "region": "Nordeste",
+        "capital": "Fortaleza",
+        "initials": "CE"
+    },
+    {
+        "lng": "-40.75",
+        "lat": "-20",
+        "population": 3512672,
+        "name": "Espírito Santo",
+        "region": "Sudeste",
+        "capital": "Vitória",
+        "initials": "ES"
+    },
+    {
+        "lng": "-47.75",
+        "lat": "-15.75",
+        "population": 2648532,
+        "name": "Distrito Federal",
+        "region": "Centro Oeste",
+        "capital": "Brasília",
+        "initials": "DF"
+    },
+    {
+        "lng": "-49.63623",
+        "lat": "-15.58071",
+        "population": 6004045,
+        "name": "Goiás",
+        "region": "Centro Oeste",
+        "capital": "Goiânia",
+        "initials": "GO"
+    },
+    {
+        "lng": "-45",
+        "lat": "-5",
+        "population": 6569683,
+        "name": "Maranhão",
+        "region": "Nordeste",
+        "capital": "São Luiz",
+        "initials": "MA"
+    },
+    {
+        "lng": "-56",
+        "lat": "-13",
+        "population": 3033991,
+        "name": "Mato Grosso",
+        "region": "Centro Oeste",
+        "capital": "Cuiabá",
+        "initials": "MT"
+    },
+    {
+        "lng": "-55",
+        "lat": "-20.5",
+        "population": 2505088,
+        "name": "Mato Grosso do Sul",
+        "region": "Centro Oeste",
+        "capital": "Campo Grande",
+        "initials": "MS"
+    },
+    {
+        "lng": "-44",
+        "lat": "-18",
+        "population": 19595309,
+        "name": "Minas Gerais",
+        "region": "Sudeste",
+        "capital": "Belo Horizonte",
+        "initials": "MG"
+    },
+    {
+        "lng": "-51.33333",
+        "lat": "-24.5",
+        "population": 10439601,
+        "name": "Paraná",
+        "region": "Sul",
+        "capital": "Curitiba",
+        "initials": "PR"
+    },
+    {
+        "lng": "-36.5",
+        "lat": "-7.25",
+        "population": 3766834,
+        "name": "Paraíba",
+        "region": "Nordeste",
+        "capital": "João Pessoa",
+        "initials": "PB"
+    },
+    {
+        "lng": "-53",
+        "lat": "-4",
+        "population": 7588078,
+        "name": "Pará",
+        "region": "Norte",
+        "capital": "Belém",
+        "initials": "PA"
+    },
+    {
+        "lng": "-37.75",
+        "lat": "-8.33333",
+        "population": 8796032,
+        "name": "Pernambuco",
+        "region": "Nordeste",
+        "capital": "Recife",
+        "initials": "PE"
+    },
+    {
+        "lng": "-42.33333",
+        "lat": "-7.25",
+        "population": 3119015,
+        "name": "Piauí",
+        "region": "Nordeste",
+        "capital": "Teresina",
+        "initials": "PI"
+    },
+    {
+        "lng": "-36.5",
+        "lat": "-5.75",
+        "population": 3168133,
+        "name": "Rio Grande do Norte",
+        "region": "Nordeste",
+        "capital": "Natal",
+        "initials": "RN"
+    },
+    {
+        "lng": "-53.5",
+        "lat": "-30",
+        "population": 10695532,
+        "name": "Rio Grande do Sul",
+        "region": "Sul",
+        "capital": "Porto Alegre",
+        "initials": "RS"
+    },
+    {
+        "lng": "-42.5",
+        "lat": "-22.25",
+        "population": 15993583,
+        "name": "Rio de Janeiro",
+        "region": "Sudeste",
+        "capital": "Rio de Janeiro",
+        "initials": "RJ"
+    },
+    {
+        "lng": "-63",
+        "lat": "-11",
+        "population": 1560501,
+        "name": "Rondônia",
+        "region": "Norte",
+        "capital": "Porto Velho",
+        "initials": "RO"
+    },
+    {
+        "lng": "-61.25",
+        "lat": "2.25",
+        "population": 451227,
+        "name": "Roraima",
+        "region": "Norte",
+        "capital": "Boa Vista",
+        "initials": "RR"
+    },
+    {
+        "lng": "-50",
+        "lat": "-27",
+        "population": 6249682,
+        "name": "Santa Catarina",
+        "region": "Sul",
+        "capital": "Florianópolis",
+        "initials": "SC"
+    },
+    {
+        "lat": "-10.5",
+        "lng": "-37.33333",
+        "population": 2068031,
+        "name": "Sergipe",
+        "region": "Nordeste",
+        "capital": "Aracaju",
+        "initials": "SE"
+    },
+    {
+        "lng": "-49",
+        "lat": "-22",
+        "population": 41252160,
+        "name": "São Paulo",
+        "region": "Sudeste",
+        "capital": "São Paulo",
+        "initials": "SP"
+    },
+    {
+        "lng": "-48",
+        "lat": "-10.5",
+        "population": 1383453,
+        "name": "Tocantins",
+        "region": "Norte",
+        "capital": "Palmas",
+        "initials": "TO"
+    }
+]

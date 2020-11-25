@@ -1,0 +1,19 @@
+<h3>{{ title }}</h3>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col" *ngFor="let col of header">
+        {{col}}
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let state of states; index as i">
+      <th scope="row">{{ i + 1 }}</th>
+      <td>{{ state.name }}</td>
+      <td>{{ state.capital }}</td>
+      <td>{{ state.initials }}</td>
+      <td>{{ state.population | number }}</td>
+    </tr>
+  </tbody>
+</table>
